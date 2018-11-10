@@ -1,0 +1,28 @@
+.news_center_title{
+    width: 980px;
+    margin: 20px 0px;
+}
+.news_center_title_p{
+     text-align: center;
+     font-size: 16px;
+}
+.news_center_title_span{
+    font-size: 12px;
+
+}
+.news_center_cen_text{
+    width: 926px;
+    margin: 20px;
+    border-top: 1px solid rgb(233, 232, 232);
+    padding-top: 10px;  
+
+}
+.news_center_cen_text p{
+    font-size: 14px;
+    text-indent: 2em;
+    line-height: 25px;
+}
+.news_center_img{
+    text-align: center;
+    margin-top:10px; 
+}

@@ -1,0 +1,43 @@
+.con_center{
+    width: 940px;
+    height: 500px;
+    margin: 0 auto;
+
+
+}
+.con_center_text{
+        width: 930px;
+        height:65px;
+        border-bottom:1px dashed #ccc;
+        margin:15px 15px 20px 15px ; 
+       text-align: center;
+}
+.con_center_text p{
+    font-size: 16px;
+    margin-bottom:10px;
+}
+.con_center_text span{
+    margin-left: 10px;
+}
+.con_center_table{
+    width: 850px;
+    height: 240px;
+    margin: 0 auto;
+}
+.con_center_table table{
+    width:850px;
+    height: 240px;
+    text-align: center;
+    font-size: 12px;
+    border-collapse: collapse;
+    border:1px solid  #318c5f;
+    color: rgb(82, 82, 82);
+}
+.con_center_table th{
+    border:none;
+    background: #318c5f;
+    color: #fff;
+}
+.con_center_table td{
+    width: 250px;
+}
